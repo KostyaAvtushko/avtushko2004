@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kostya
-- 👀 I’m interested in Java, Golang
-- 🌱 I’m currently learning Golang
+- 👀 I’m interested in Java, Golang, DevOps
+- 🌱 I’m currently learning Golang and C
 - 📫 tg @Kostya_Kotlin
 
 <!---
