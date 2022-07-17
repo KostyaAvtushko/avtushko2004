@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kostya
-- 👀 I’m interested in Backend, DevOps
-- 🌱 I’m currently learning Golang and C
+- 👀 I’m interested in Backend
+- 🌱 I’m currently learning Golang
 - 📫 tg @Kostya_Kotlin
 
 <!---
